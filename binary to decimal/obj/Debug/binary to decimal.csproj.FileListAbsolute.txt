@@ -1,0 +1,8 @@
+G:\My Drive\Coding\Programs\binary to decimal\binary to decimal\bin\Debug\binary to decimal.exe.config
+G:\My Drive\Coding\Programs\binary to decimal\binary to decimal\bin\Debug\binary to decimal.exe
+G:\My Drive\Coding\Programs\binary to decimal\binary to decimal\bin\Debug\binary to decimal.pdb
+G:\My Drive\Coding\Programs\binary to decimal\binary to decimal\obj\Debug\binary to decimal.csproj.AssemblyReference.cache
+G:\My Drive\Coding\Programs\binary to decimal\binary to decimal\obj\Debug\binary to decimal.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Coding\Programs\binary to decimal\binary to decimal\obj\Debug\binary to decimal.csproj.CoreCompileInputs.cache
+G:\My Drive\Coding\Programs\binary to decimal\binary to decimal\obj\Debug\binary to decimal.exe
+G:\My Drive\Coding\Programs\binary to decimal\binary to decimal\obj\Debug\binary to decimal.pdb
